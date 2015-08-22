@@ -3427,26 +3427,26 @@ fieldset[disabled] .btn-primary.focus {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #32c280;
+  border-color: #2dae73;
 }
 .btn-success:focus,
 .btn-success.focus {
   color: #fff;
-  background-color: #449d44;
-  border-color: #255625;
+  background-color: #289965;
+  border-color: #134830;
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #289965;
+  border-color: #207d53;
 }
 .btn-success:active,
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #289965;
+  border-color: #207d53;
 }
 .btn-success:active:hover,
 .btn-success.active:hover,
@@ -3458,8 +3458,8 @@ fieldset[disabled] .btn-primary.focus {
 .btn-success.active.focus,
 .open > .dropdown-toggle.btn-success.focus {
   color: #fff;
-  background-color: #398439;
-  border-color: #255625;
+  background-color: #207d53;
+  border-color: #134830;
 }
 .btn-success:active,
 .btn-success.active,
@@ -3475,11 +3475,11 @@ fieldset[disabled] .btn-success:focus,
 .btn-success.disabled.focus,
 .btn-success[disabled].focus,
 fieldset[disabled] .btn-success.focus {
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #32c280;
+  border-color: #2dae73;
 }
 .btn-success .badge {
-  color: #5cb85c;
+  color: #32c280;
   background-color: #fff;
 }
 .btn-info {
@@ -5132,11 +5132,11 @@ a.label:focus {
   background-color: #112234;
 }
 .label-success {
-  background-color: #5cb85c;
+  background-color: #32c280;
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #449d44;
+  background-color: #289965;
 }
 .label-info {
   background-color: #5bc0de;
@@ -5412,7 +5412,7 @@ a.thumbnail.active {
           animation: progress-bar-stripes 2s linear infinite;
 }
 .progress-bar-success {
-  background-color: #5cb85c;
+  background-color: #32c280;
 }
 .progress-striped .progress-bar-success {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
