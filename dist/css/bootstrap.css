@@ -1337,7 +1337,7 @@ body {
   font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
+  color: #808080;
   background-color: #fff;
 }
 input,
@@ -3164,7 +3164,7 @@ select[multiple].input-lg {
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #737373;
+  color: #c0c0c0;
 }
 @media (min-width: 768px) {
   .form-inline .form-group {
@@ -5272,7 +5272,7 @@ a.thumbnail.active {
 }
 .thumbnail .caption {
   padding: 9px;
-  color: #333;
+  color: #808080;
 }
 .alert {
   padding: 15px;
