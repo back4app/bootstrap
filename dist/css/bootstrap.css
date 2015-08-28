@@ -3260,6 +3260,12 @@ select[multiple].input-lg {
 .form-group-sm .control-label {
   font-size: 12px;
 }
+.form-group-lg {
+  font-size: 18px;
+}
+.form-group-sm {
+  font-size: 12px;
+}
 .btn {
   display: inline-block;
   padding: 6px 12px;
